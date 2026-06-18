@@ -4,9 +4,6 @@ A 3D physics-based golf puzzle game developed in **Unity**. In this game, player
 
 This project was built collaboratively to demonstrate core gameplay programming, physics interactions, and professional software engineering practices including QA testing, Data Management Planning, and Git feature-branching.
 
-![Project Banner / Gameplay GIF Placeholder]()
-*(Recommend adding a GIF here showing the trajectory line and the ball being kicked into the goal)*
-
 ---
 
 ## 🛠️ Tech Stack
